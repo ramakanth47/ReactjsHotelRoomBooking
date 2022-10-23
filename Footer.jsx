@@ -12,9 +12,9 @@ export default function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/SamiurRahmanMukul"
+          href="https://www.facebook.com/ramakanthdivili"
         >
-          Samiur Rahman Mukul
+          Divili ramakanth
         </a>
       </p>
     </footer>
